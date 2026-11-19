@@ -1,4 +1,8 @@
 
+<h3 align="center">
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-00FF66?style=for-the-badge&labelColor=050B08" />
+</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&duration=2000&pause=1000&color=00FF66&center=true&vCenter=true&width=600&lines=RK_DON;WELCOME+TO+MY+PROFILE;SYSTEM+ONLINE..." alt="RK_DON Typing Animation" />
+  <b>⚡ THINK • CODE • CREATE • REPEAT ⚡</b>
 </p>
